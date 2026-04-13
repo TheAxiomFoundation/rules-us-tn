@@ -1,0 +1,14 @@
+Tennessee SNAP self-employment expense option under TDHS SNAP Income Policy
+24.14 for period 2026-01.
+
+Use monthly SNAP period 2026-01.
+
+Tennessee Department of Human Services, SNAP Income Policy 24.14, effective
+January 4, 2022:
+
+The allowable cost of producing self-employment income is excluded from income.
+Staff shall refer to SNAP Income and Budgeting Procedures.
+
+Model `snap_self_employment_expense_based_deduction_applies` as whether
+Tennessee allows actual self-employment business expenses to be deducted under
+current-effective SNAP policy.

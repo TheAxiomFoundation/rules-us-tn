@@ -10,6 +10,7 @@ live here.
 
 - TennCare ABD Manual source slices for Tennessee SNAP utility allowances
 - Tennessee SNAP Policy Manual source slices for delegated SNAP state options
+- Tennessee SNAP Income Policy source slices for self-employment expense treatment
 - jurisdiction-local source corpus for Tennessee SNAP overlays
 
 ## Layout

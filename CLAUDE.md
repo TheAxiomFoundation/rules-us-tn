@@ -7,6 +7,7 @@ Tennessee benefit-program source and encodings live here.
 - Tennessee-administered overlays, manuals, and guidance
 - federal program cores remain in `rac-us`
 - keep Tennessee source slices in this repo even when the underlying program is federal
+- Tennessee SNAP state-option and self-employment-treatment slices belong here
 
 ## Layout
 
