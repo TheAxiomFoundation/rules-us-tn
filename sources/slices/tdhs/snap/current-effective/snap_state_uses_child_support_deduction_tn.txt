@@ -1,0 +1,14 @@
+Tennessee SNAP child support deduction election under the Tennessee SNAP Policy
+Manual, Chapter 23, section L for period 2026-01.
+
+Use monthly SNAP period 2026-01.
+
+Tennessee Department of Human Services, Supplemental Nutrition Assistance
+Program (SNAP) Policy Manual, July 2017, Chapter 23: Allowable Deductions,
+section L. Child Support Payment Deduction:
+
+Court ordered child support payments paid by a SNAP household member to or for
+an individual living outside the household are allowed as a deduction.
+
+Model `snap_state_uses_child_support_deduction` as whether Tennessee elects the
+SNAP child-support deduction treatment under this current-effective state policy.

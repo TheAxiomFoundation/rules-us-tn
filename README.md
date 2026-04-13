@@ -9,6 +9,7 @@ live here.
 ## Current scope
 
 - TennCare ABD Manual source slices for Tennessee SNAP utility allowances
+- Tennessee SNAP Policy Manual source slices for delegated SNAP state options
 - jurisdiction-local source corpus for Tennessee SNAP overlays
 
 ## Layout
@@ -17,6 +18,9 @@ live here.
 rac-us-tn/
 ├── sources/
 │   └── slices/
+│       ├── tdhs/
+│       │   └── snap/
+│       │       └── current-effective/
 │       └── tenncare/
 │           └── post-eligibility/
 │               └── current-effective/
