@@ -33,5 +33,8 @@ python3 scripts/validate_repo.py
 - Repo boundaries follow jurisdictions, not program labels.
 - Tennessee SNAP overlays belong here, not in `rac-us`.
 - Preserve exact source slices under `sources/slices/`.
+- For delegated state-set parameters, add a `*.meta.yaml` sidecar next to the
+  source slice with `relation: sets` pointing at the canonical upstream CFR or
+  USC slot.
 - Do not leave promoted corpus files as `status: stub`.
 - Do not hand-edit promoted policy outputs; improve the automatic system and rerun.

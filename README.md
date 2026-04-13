@@ -43,5 +43,8 @@ python3 scripts/validate_repo.py
 - Keep Tennessee-administered overlays in `rac-us-tn`, even when they sit on top of
   a federal program like SNAP.
 - Keep exact local excerpts in `sources/slices/`.
+- When a Tennessee source sets a value inside a federally delegated slot, add a
+  `*.meta.yaml` sidecar next to the source slice with `relation: sets` pointing
+  to the canonical upstream CFR or USC target.
 - Do not hand-edit promoted policy outputs; use AutoRAC plus benchmarked repair
   loops.
